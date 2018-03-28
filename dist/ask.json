@@ -1,0 +1,629 @@
+{
+	"0": {
+	  "id": "0",
+	  "question": "How many layers are in the TCP/IP (OSI Model) protocol ?",
+	  "answer": {
+	    "0": "4",
+	    "1": "3",
+	    "2": "7",
+	    "3": "9"
+	  },
+	  "good": "2"
+	},
+	"1": {
+	  "id": "1",
+	  "question": "Who is the creator of PHP ?",
+	  "answer": {
+	    "0": "Rasmus Lerdorf",
+	    "1": "Bjarne Stroustrup",
+	    "2": "Dennis Ritchie",
+	    "3": "Alan Turing"
+	  },
+	  "good": "0"
+	},
+	"2": {
+	  "id": "2",
+	  "question": "When was MS-DOS released?",
+	  "answer": {
+	    "0": "1984",
+	    "1": "1981",
+	    "2": "1998",
+	    "3": "1979"
+	  },
+	  "good": "1"
+	},
+	"3": {
+	  "id": "3",
+	  "question": "When was the first electronic, Turing-complete device created?",
+	  "answer": {
+	    "0": "1912",
+	    "1": "1945",
+	    "2": "1943",
+	    "3": "1985"
+	  },
+	  "good": "2"
+	},
+	"4": {
+	  "id": "4",
+	  "question": "When was the first implementation of Blockchain Technology?",
+	  "answer": {
+	    "0": "2000",
+	    "1": "1998",
+	    "2": "2005",
+	    "3": "2009"
+	  },
+	  "good": "3"
+	},
+	"5": {
+	  "id": "5",
+	  "question": "Who invented the first version of the SSH protocol?",
+	  "answer": {
+	    "0": "Booba",
+	    "1": "Tatu Ylonen",
+	    "2": "Linus Torvalds",
+	    "3": "Richard Stallman"
+	  },
+	  "good": "1"
+	},
+	"6": {
+	  "id": "6",
+	  "question": "Who created the Blu-ray standard?",
+	  "answer": {
+	    "0": "Sony",
+	    "1": "Philips",
+	    "2": "Samsung",
+	    "3": "Motorola"
+	  },
+	  "good": "0"
+	},
+	"7": {
+	  "id": "7",
+	  "question": "Which OS has to be used with openVZ?",
+	  "answer": {
+	    "0": "MS-DOS",
+	    "1": "Linux",
+	    "2": "Mac OS",
+	    "3": "Android"
+	  },
+	  "good": "1"
+	},
+	"8": {
+	  "id": "8",
+	  "question": "Is DisplayPort able to carry audio?",
+	  "answer": {
+	    "0": "Yes",
+	    "1": "No",
+	    "2": "Maybe",
+	    "3": "Can your repeat the question ?"
+	  },
+	  "good": "0"
+	},
+	"9": {
+	  "id": "9",
+	  "question": "What is FQDN?",
+	  "answer": {
+	    "0": "French Qualified Domain nomination",
+	    "1": "Full Quality Domain name",
+	    "2": "Fully Qualified Domain name",
+	    "3": "Full query domain name"
+	  },
+	  "good": "2"
+	},
+	"10": {
+	  "id": "10",
+	  "question": "What was the first laptop released?",
+	  "answer": {
+	    "0": "Bondwell 2",
+	    "1": "Epson HX-20",
+	    "2": "Commodore SX-64",
+	    "3": "Osborne 1"
+	  },
+	  "good": "3"
+	},
+	"11": {
+	  "id": "11",
+	  "question": "What is the advantage of thin client?",
+	  "answer": {
+	    "0": "Lower operation cost",
+	    "1": "Easy management",
+	    "2": "No server",
+	    "3": "don't know"
+	  },
+	  "good": "0"
+	},
+	"12": {
+	  "id": "12",
+	  "question": "What was the weight of the computer ENIAC?",
+	  "answer": {
+	    "0": "10kg",
+	    "1": "30t",
+	    "2": "3t",
+	    "3": "2kg"
+	  },
+	  "good": "1"
+	},
+	"13": {
+	  "id": "13",
+	  "question": "When was born Alan Turing?",
+	  "answer": {
+	    "0": "1945",
+	    "1": "1918",
+	    "2": "1892",
+	    "3": "1912"
+	  },
+	  "good": "3"
+	},
+	"14": {
+	  "id": "14",
+	  "question": "Do you need a multiprocessor computer to have a virtual machine?",
+	  "answer": {
+	    "0": "Yes",
+	    "1": "No",
+	    "2": "It depend",
+	    "3": "Not sure"
+	  },
+	  "good": "1"
+	},
+	"15": {
+	  "id": "15",
+	  "question": "What logo is used to represent NetBSD?",
+	  "answer": {
+	    "0": "Puffy",
+	    "1": "Dragon",
+	    "2": "Flag",
+	    "3": "Pinguin"
+	  },
+	  "good": "2"
+	},
+	"16": {
+	  "id": "16",
+	  "question": "What is the purpose of the Free Software Foundation?",
+	  "answer": {
+	    "0": "Promote study / distribute / create / modify computer",
+	    "1": "Create software",
+	    "2": "Promote love between ios and android",
+	    "3": "lul"
+	  },
+	  "good": "0"
+	},
+	"17": {
+	  "id": "17",
+	  "question": "What is the maximum partition size for NTFS?",
+	  "answer": {
+	    "0": "10Go",
+	    "1": "256 Tib",
+	    "2": "64 Tib",
+	    "3": "1024 To"
+	  },
+	  "good": "1"
+	},
+	"18": {
+	  "id": "18",
+	  "question": "In which year was the first Playstation made?",
+	  "answer": {
+	    "0": "1996",
+	    "1": "1994",
+	    "2": "2001",
+	    "3": "1998"
+	  },
+	  "good": "1"
+	},
+	"19": {
+	  "id": "19",
+	  "question": "What is the OpenBSD mascot?",
+	  "answer": {
+	    "0": "Puffy",
+	    "1": "Dragonfly",
+	    "2": "Antoine",
+	    "3": "Clippy"
+	  },
+	  "good": "0"
+	},
+	"20": {
+	  "id": "20",
+	  "question": "Which one of the following sentences about SDRAM is true?",
+	  "answer": {
+	    "0": "Coordonated witch clock signal",
+	    "1": "Faster / Better / Stronger",
+	    "2": "Replace ROM",
+	    "3": "Use Sata 3"
+	  },
+	  "good": "0"
+	},
+	"21": {
+	  "id": "21",
+	  "question": "What is the meaning of TCP?",
+	  "answer": {
+	    "0": "Transfert Control Protocol",
+	    "1": "Transmission Control Protocol",
+	    "2": "Transfert Control Processing",
+	    "3": "T'es Con Putain"
+	  },
+	  "good": "1"
+	},
+	"22": {
+	  "id": "22",
+	  "question": "What is the standard port for the wake-on-lan service?",
+	  "answer": {
+	    "0": "9",
+	    "1": "8888",
+	    "2": "666",
+	    "3": "443"
+	  },
+	  "good": "0"
+	},
+	"23": {
+	  "id": "23",
+	  "question": "What is VoIP?",
+	  "answer": {
+	    "0": "Voice over internet process",
+	    "1": "Voice over intranet protocol",
+	    "2": "Voice over internet protocol",
+	    "3": "Voice over Intel Processor"
+	  },
+	  "good": "2"
+	},
+	"24": {
+	  "id": "24",
+	  "question": "What does SSH mean?",
+	  "answer": {
+	    "0": "Secure Shell Host",
+	    "1": "Secure Shell",
+	    "2": "Security Shell",
+	    "3": "Shhhhh ! Tu fais trop de bruit"
+	  },
+	  "good": "1"
+	},
+	"25": {
+	  "id": "25",
+	  "question": "What does HDMI mean?",
+	  "answer": {
+	    "0": "High Definition monitor interface",
+	    "1": "High Definition multimedia interface",
+	    "2": "High Definition multiple interface",
+	    "3": "HDMI"
+	  },
+	  "good": "1"
+	},
+	"26": {
+	  "id": "26",
+	  "question": "What was the name of the first electronic, Turing-complete device created?",
+	  "answer": {
+	    "0": "Colossus",
+	    "1": "ENIAC",
+	    "2": "Enigma",
+	    "3": "AlphaGO"
+	  },
+	  "good": "0"
+	},
+	"27": {
+	  "id": "27",
+	  "question": "When was the first USB flash drive invented?",
+	  "answer": {
+	    "0": "2001",
+	    "1": "1999",
+	    "2": "2000",
+	    "3": "2005"
+	  },
+	  "good": "2"
+	},
+	"28": {
+	  "id": "28",
+	  "question": "What does VGA mean?",
+	  "answer": {
+	    "0": "Visual Graphic adaptater",
+	    "1": "Visual Graphic array",
+	    "2": "Video Graphic Array",
+	    "3": "Video Games Adaptater"
+	  },
+	  "good": "2"
+	},
+	"29": {
+	  "id": "29",
+	  "question": "Who is the founder of the Free Software Foundation?",
+	  "answer": {
+	    "0": "Rasmus Lerdorf",
+	    "1": "Bjarne Stroustrup",
+	    "2": "Dennis Ritchie",
+	    "3": "Richard Stallman"
+	  },
+	  "good": "3"
+	},
+	"30": {
+	  "id": "30",
+	  "question": "What protocol is used to resolve IP adress host name?",
+	  "answer": {
+	    "0": "DNS",
+	    "1": "TCP/IP",
+	    "2": "HTTP",
+	    "3": "SSH"
+	  },
+	  "good": "0"
+	},
+	"31": {
+	  "id": "31",
+	  "question": "What is the name of the first game console?",
+	  "answer": {
+	    "0": "Gamecube",
+	    "1": "NES",
+	    "2": "Pong-O-Tronic",
+	    "3": "Odyssey"
+	  },
+	  "good": "3"
+	},
+	"32": {
+	  "id": "32",
+	  "question": "What was the first smartphone to be sold?",
+	  "answer": {
+	    "0": "IBM Simon",
+	    "1": "Nokia 3310",
+	    "2": "Apple 3GS",
+	    "3": "BlackBerry"
+	  },
+	  "good": "0"
+	},
+	"33": {
+	  "id": "33",
+	  "question": "Which paradigm describes what the code does step by step?",
+	  "answer": {
+	    "0": "Imperative",
+	    "1": "Logical",
+	    "2": "Asynchronous",
+	    "3": "Step by Step"
+	  },
+	  "good": "0"
+	},
+	"34": {
+	  "id": "34",
+	  "question": "What does PHP mean today ?",
+	  "answer": {
+	    "0": "Personal HomePage",
+	    "1": "PHP: Hypertext Preprocessor",
+	    "2": "PHP: Hypertext Processor",
+	    "3": "Personal HTML Page"
+	  },
+	  "good": "1"
+	},
+	"35": {
+	  "id": "35",
+	  "question": "How do C# and Java deal with unusued allocated memory ?",
+	  "answer": {
+	    "0": "Memory Pool",
+	    "1": "Garbage Collector",
+	    "2": "Nothing",
+	    "3": "Release it"
+	  },
+	  "good": "1"
+	},
+	"36": {
+	  "id": "36",
+	  "question": "Originally, where was the BIOS located ?",
+	  "answer": {
+	    "0": "ROM",
+	    "1": "RAM",
+	    "2": "GPU",
+	    "3": "CPU"
+	  },
+	  "good": "0"
+	},
+	"37": {
+	  "id": "37",
+	  "question": "Which protocol can secure a domestic internet connection ?",
+	  "answer": {
+	    "0": "SSH",
+	    "1": "WPA2",
+	    "2": "DNS",
+	    "3": "TCP/IP"
+	  },
+	  "good": "1"
+	},
+	"38": {
+	  "id": "38",
+	  "question": "Which company did the creator of UNIX belong to ?",
+	  "answer": {
+	    "0": "Philips",
+	    "1": "Sony",
+	    "2": "Bell's Labs (AT&T)",
+	    "3": "Microsoft"
+	  },
+	  "good": "2"
+	},
+	"39": {
+	  "id": "39",
+	  "question": "Which corporation created the first microprocessor ?",
+	  "answer": {
+	    "0": "AMD",
+	    "1": "Microsoft",
+	    "2": "Apple",
+	    "3": "Intel"
+	  },
+	  "good": "3"
+	},
+	"40": {
+	  "id": "40",
+	  "question": "What does \"FTTH\" mean ?",
+	  "answer": {
+	    "0": "Fiber to the Home",
+	    "1": "Fiber to the Moon",
+	    "2": "Fiber to the Homeless",
+	    "3": "Fiber to the Hell"
+	  },
+	  "good": "0"
+	},
+	"41": {
+	  "id": "41",
+	  "question": "What is the brand of the first mobile phone ?",
+	  "answer": {
+	    "0": "LG",
+	    "1": "Motorola",
+	    "2": "Sony",
+	    "3": "IBM"
+	  },
+	  "good": "1"
+	},
+	"42": {
+	  "id": "42",
+	  "question": "What does ToIP stand for ?",
+	  "answer": {
+	    "0": "Transfert Over Internet Process",
+	    "1": "Transfert Over Internet Protocol",
+	    "2": "Telephony Over Internet Protocol",
+	    "3": "Telegram Over Internet Protocol"
+	  },
+	  "good": "2"
+	},
+	"43": {
+	  "id": "43",
+	  "question": "Who created the Compact Disc (CD) ?",
+	  "answer": {
+	    "0": "Philips and Sony",
+	    "1": "Intel",
+	    "2": "IBM",
+	    "3": "Microsoft"
+	  },
+	  "good": "0"
+	},
+	"44": {
+	  "id": "44",
+	  "question": "Who is the founder and maker of the Grid Compass ?",
+	  "answer": {
+	    "0": "Alan Turing",
+	    "1": "Jon Snow",
+	    "2": "Bill Moggridge",
+	    "3": "Tatu Ylonen"
+	  },
+	  "good": "2"
+	},
+	"45": {
+	  "id": "45",
+	  "question": "Which connector supports G-Sync ?",
+	  "answer": {
+	    "0": ".perl",
+	    "1": ".pl",
+	    "2": ".p",
+	    "3": ".py"
+	  },
+	  "good": "1"
+	},
+	"46": {
+	  "id": "46",
+	  "question": "What was an issue with the predecessors of SSH",
+	  "answer": {
+	    "0": "Data transmit as cleartext",
+	    "1": "Lost data during transfert",
+	    "2": "fail transfert",
+	    "3": "Nothing"
+	  },
+	  "good": "0"
+	},
+	"47": {
+	  "id": "47",
+	  "question": "When was the ENIAC formally dedicated ?",
+	  "answer": {
+	    "0": "1944",
+	    "1": "1940",
+	    "2": "1939",
+	    "3": "1943"
+	  },
+	  "good": "3"
+	},
+	"48": {
+	  "id": "48",
+	  "question": "What was the first meaning for the acronym PHP?",
+	  "answer": {
+	    "0": "Personal HomePage",
+	    "1": "PHP: HyperText Preprocessor",
+	    "2": "Perhaps",
+	    "3": "Personnal HTTP Page"
+	  },
+	  "good": "0"
+	},
+	"49": {
+	  "id": "49",
+	  "question": "When was released the first version of MS-DOS?",
+	  "answer": {
+	    "0": "1990",
+	    "1": "1981",
+	    "2": "2000",
+	    "3": "1986"
+	  },
+	  "good": "1"
+	},
+	"50": {
+	  "id": "50",
+	  "question": "What's the name of the UNIX creator?",
+	  "answer": {
+	    "0": "Bill Gates",
+	    "1": "Kenneth Tohmson",
+	    "2": "Alan Turing",
+	    "3": "Linus Torvalds"
+	  },
+	  "good": "1"
+	},
+	"51": {
+	  "id": "51",
+	  "question": "How many Ram does the Nintendo 64 have ?",
+	  "answer": {
+	    "0": "4 can be extented to 8",
+	    "1": "4",
+	    "2": "8",
+	    "3": "16"
+	  },
+	  "good": "0"
+	},
+	"52": {
+	  "id": "52",
+	  "question": "Which of these languages does not use a virtual machin at its execution?",
+	  "answer": {
+	    "0": "PHP",
+	    "1": "Python",
+	    "2": "C",
+	    "3": "Perl"
+	  },
+	  "good": "1"
+	},
+	"53": {
+	  "id": "53",
+	  "question": "Which of these file systems is used by Windows ?",
+	  "answer": {
+	    "0": "Ext4",
+	    "1": "Ext2",
+	    "2": "NTFS",
+	    "3": "MSFileSystem"
+	  },
+	  "good": "2"
+	},
+	"54": {
+	  "id": "54",
+	  "question": "Who chose the name Wi-Fi",
+	  "answer": {
+	    "0": "Intel",
+	    "1": "The Wi-Fi Alliance",
+	    "2": "Reddit",
+	    "3": "Microsoft"
+	  },
+	  "good": "1"
+	},
+	"55": {
+	  "id": "55",
+	  "question": "Wich of these is not a video format ?",
+	  "answer": {
+	    "0": ".mkv",
+	    "1": ".avi",
+	    "2": ".mp4",
+	    "3": ".midi"
+	  },
+	  "good": "3"
+	},
+	"56": {
+	  "id": "56",
+	  "question": "What was the name of SOLARIS originally ?",
+	  "answer": {
+	    "0": "SunOS",
+	    "1": "Solary OS",
+	    "2": "SolOS",
+	    "3": "SunnyOS"
+	  },
+	  "good": "0"
+	}
+      }

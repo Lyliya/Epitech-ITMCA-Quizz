@@ -1,0 +1,20 @@
+.head {
+	background-color: #161616;
+	width: 100%;
+	color: white;
+}
+
+body {
+	height: 100%;
+	background-color: #161616;
+}
+
+div {
+	padding-top: 2% !important;
+	padding-bottom: 2% !important;
+}
+
+.btn {
+	color: white !important;
+	border-color: white !important;
+}
